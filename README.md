@@ -13,7 +13,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10 / UBUNTU 20.04 LANGSUNG INSTALL AJA!!!
-LBIH BAIK MAKEK DOMAIN SENDIRI.
+REKOMONDASI MAKEK DOMAIN SENDIRI.
 
 Sedia AkunSsh Premium 5k-10k isp indo & Sgdo
 https://www.facebook.com/aris.newby
