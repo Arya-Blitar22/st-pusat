@@ -16,7 +16,6 @@ SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10 / UBUNTU 20.04 LANG
 REKOMONDASI MAKEK DOMAIN SENDIRI.
 
 Multiport
-
 Ssh ws/udp/ssl/slowdns/vray/sadowsoks
 
 Sedia AkunSsh Premium 5k-10k isp indo & Sgdo
