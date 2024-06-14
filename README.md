@@ -18,7 +18,7 @@ REKOMONDASI MAKEK DOMAIN SENDIRI.
 Multiport
 Ssh ws/udp/ssl/slowdns/vray/sadowsoks
 
-Sedia AkunSsh Premium 5k-10k isp indo & Sgdo
+Sedia AkunSsh Premium 10k isp indo & Sgdo
 https://www.facebook.com/aris.newby
 
 Jika Kendala Bisa wa. https://wa.me/6281931615811
