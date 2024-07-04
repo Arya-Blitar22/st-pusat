@@ -20,7 +20,7 @@ function vmip(){
 echo -n > /var/log/xray/access.log
 sleep 1
 data=( `ls /etc/kyt/limit/vmess/ip`);
-#Decrypted By YADDY D PHREAKER
+#dancok
     for user in "${data[@]}"
     do
         iplimit=$(cat /etc/kyt/limit/vmess/ip/$user)
