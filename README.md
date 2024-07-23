@@ -17,7 +17,7 @@ REKOMONDASI MAKEK DOMAIN SENDIRI.
 
 Multiport
 Ssh ws/udp/ssl/slowdns/vray/sadowsoks/
-Noobzvpn
+Noobzvpn/Bot Tele
 
 Sedia AkunSsh Premium 10k isp indo & Sgdo
 https://www.facebook.com/aris.newby
