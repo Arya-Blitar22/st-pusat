@@ -1,10 +1,10 @@
 #!/bin/sh
 REPOS="https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/"
 ns_domain_cloudflare() {
-	DOMAIN="group-nbc.my.id"
+	DOMAIN="aryablitar.filegear-sg.me"
 	DOMAIN_PATH=$(cat /etc/xray/domain)
 	SUB=$(tr </dev/urandom -dc a-z0-9 | head -c7)
-	SUB_DOMAIN=${SUB}."group-nbc.my.id"
+	SUB_DOMAIN=${SUB}."aryablitar.filegear-sg.me"
 	NS_DOMAIN=dns.${SUB_DOMAIN}
 	CF_ID=lahseta19@gmail.com
         CF_KEY=641efc1ac85cd3f401f639df955ec5b696c8c
