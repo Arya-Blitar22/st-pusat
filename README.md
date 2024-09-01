@@ -24,6 +24,8 @@ https://www.facebook.com/aris.newby
 
 Jika Kendala Bisa wa. https://wa.me/6281931615811
 
+https://wa.me/p/8285361161529756/6281931615811
+
 Bisa Donasi Seikhlasnya 🤣
 
 Versi Enteng No Udp,slowdns,noobzvpn.no limit
