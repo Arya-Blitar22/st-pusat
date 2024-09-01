@@ -26,8 +26,6 @@ Jika Kendala Bisa wa. https://wa.me/6281931615811
 
 Bisa Donasi Seikhlasnya 🤣
 
-Info : Usahakan Yang Di Pakek Ssh Ws Ma Vmes Aja Biar Stabil
-
 Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
 
