@@ -33,5 +33,8 @@ Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scu.png)
 
+
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
+
 Youtube Tutorial
 https://youtu.be/OkVAQVFIPPc
