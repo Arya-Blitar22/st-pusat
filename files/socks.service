@@ -1,6 +1,6 @@
 [Unit]
 Description=Python Proxy Tunneling
-Documentation=https://github.com/Arya-Blitar22
+Documentation=https://t.me/AryaBlitar
 After=network.target nss-lookup.target
 
 [Service]
