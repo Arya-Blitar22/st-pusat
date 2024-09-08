@@ -21,9 +21,6 @@ Noobzvpn/Bot Tele
 
 Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7
 
-Sedia AkunSsh Premium 10k isp indo & Sgdo
-https://www.facebook.com/aris.newby
-
 https://wa.me/p/8285361161529756/6281931615811
 
 Bisa Donasi Seikhlasnya 🤣
@@ -39,5 +36,6 @@ Versi Enteng No Udp,slowdns,noobzvpn.no limit
 Youtube Tutorial
 https://youtu.be/OkVAQVFIPPc
 
+Sedia AkunSsh Premium 10k isp indo & Sgdo
 ### BISA HUBUNGI
 <a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6281931615811" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
