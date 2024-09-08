@@ -19,7 +19,7 @@ Multiport
 Ssh ws/udp/ssl/slowdns/vray/sadowsoks/
 Noobzvpn/Bot Tele
 
-Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih Change Baner Tulis Baner & Dan Klik Ctrl +x +y tekan Enter Balik Menu Pilih Restart Baner
+Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7
 
 Sedia AkunSsh Premium 10k isp indo & Sgdo
 https://www.facebook.com/aris.newby
