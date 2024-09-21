@@ -1,13 +1,13 @@
 #!/bin/bash
 REPO="https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/"
-wget -q -O /etc/systemd/system/limitvmess.service "${REPO}files/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
-wget -q -O /etc/systemd/system/limitvless.service "${REPO}files/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
-wget -q -O /etc/systemd/system/limittrojan.service "${REPO}files/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1
-wget -q -O /etc/systemd/system/limitshadowsocks.service "${REPO}files/limitshadowsocks.service" && chmod +x limitshadowsocks.service >/dev/null 2>&1
-wget -q -O /etc/xray/limit.vmess "${REPO}limit/vmess" >/dev/null 2>&1
-wget -q -O /etc/xray/limit.vless "${REPO}limit/vless" >/dev/null 2>&1
-wget -q -O /etc/xray/limit.trojan "${REPO}limit/trojan" >/dev/null 2>&1
-wget -q -O /etc/xray/limit.shadowsocks "${REPO}limit/shadowsocks" >/dev/null 2>&1
+wget -q -O /etc/systemd/system/limitvmess.service "${REPO}media/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
+wget -q -O /etc/systemd/system/limitvless.service "${REPO}media/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
+wget -q -O /etc/systemd/system/limittrojan.service "${REPO}media/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1
+wget -q -O /etc/systemd/system/limitshadowsocks.service "${REPO}media/limitshadowsocks.service" && chmod +x limitshadowsocks.service >/dev/null 2>&1
+wget -q -O /etc/xray/limit.vmess "${REPO}media/vmess" >/dev/null 2>&1
+wget -q -O /etc/xray/limit.vless "${REPO}media/vless" >/dev/null 2>&1
+wget -q -O /etc/xray/limit.trojan "${REPO}media/trojan" >/dev/null 2>&1
+wget -q -O /etc/xray/limit.shadowsocks "${REPO}media/shadowsocks" >/dev/null 2>&1
 chmod +x /etc/xray/limit.vmess
 chmod +x /etc/xray/limit.vless
 chmod +x /etc/xray/limit.trojan
