@@ -43,6 +43,10 @@ Versi Enteng No Udp,slowdns,noobzvpn.no limit
 Youtube Tutorial
 https://youtu.be/OkVAQVFIPPc
 
+### Cara Fix Dropbear Haproxy Nginx
+
+https://youtu.be/5oyRchPMzJc?si=5n9sxwrbrn2y4URd
+
 Sedia AkunSsh Premium 10k isp indo & Sgdo
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/gb.png)
