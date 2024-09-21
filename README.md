@@ -29,7 +29,7 @@ Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 
 
 https://wa.me/p/8285361161529756/6281931615811
 
-Bisa Donasi Seikhlasnya 🤣
+# Bisa Donasi Seikhlasnya 🤣
 
 Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
@@ -39,7 +39,7 @@ Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
 
-Tuk CaraNya Bisa Klik
+# Tuk CaraNya Bisa Klik
 Youtube Tutorial
 https://youtu.be/OkVAQVFIPPc
 
