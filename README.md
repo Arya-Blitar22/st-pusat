@@ -34,7 +34,7 @@ https://wa.me/p/8285361161529756/6281931615811
 Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scu.png)
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/hemm.png)
 
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
