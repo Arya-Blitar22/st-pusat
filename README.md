@@ -33,6 +33,9 @@ https://wa.me/p/8285361161529756/6281931615811
 
 Versi Enteng No Udp,slowdns,noobzvpn.no limit
 
+````
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/main.sh && chmod +x main.sh && ./main.sh
+````
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scu.png)
 
