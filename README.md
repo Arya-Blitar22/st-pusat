@@ -25,7 +25,7 @@ Multiport
 Ssh ws/udp/ssl/slowdns/vray/sadowsoks/
 Noobzvpn/Bot Tele
 
-Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7 & Nginx Haproxy Fix nmer 8
+Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7 & Nginx Haproxy Fix nmer 8 / 9
 
 https://wa.me/p/8285361161529756/6281931615811
 
