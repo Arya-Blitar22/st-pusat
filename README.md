@@ -43,8 +43,8 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
 
 ### Tuk CaraNya Bisa Klik
-Youtube Tutorial
-https://youtu.be/OkVAQVFIPPc
+Video Terbaru
+[https://youtu.be/OkVAQVFIPPc](https://youtu.be/Y-SHkglq2ho?si=VXZ-bBHssMjtgDz9)
 
 ### Cara Fix Dropbear Haproxy Nginx
 
