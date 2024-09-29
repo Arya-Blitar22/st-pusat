@@ -11,13 +11,6 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scp.png)
 
-### Update menu
-````
-wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/update.sh
-chmod +x update.sh
-./update.sh
-````
-
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10,11 / UBUNTU 20.18, 20.04 LANGSUNG INSTALL AJA!!!
 REKOMONDASI MAKEK DOMAIN SENDIRI.
 
