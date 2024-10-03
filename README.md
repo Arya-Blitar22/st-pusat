@@ -1,5 +1,5 @@
 ````
-HAPPY NEWYEAR 2024
+Script LifeTime Gratis V1
 ````
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++A+R+Y+A++B+L+I+T+A+R" />
@@ -35,8 +35,8 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
 
-### Tuk CaraNya Bisa Klik
-Video Terbaru
+## Jika Swaktu2 Password Di Ganti Cek Youtube Terbaru
+
 [https://youtu.be/OkVAQVFIPPc](https://youtu.be/Y-SHkglq2ho?si=VXZ-bBHssMjtgDz9)
 
 ### Cara Fix Dropbear Haproxy Nginx
