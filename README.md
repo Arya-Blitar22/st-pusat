@@ -46,6 +46,9 @@ Sedia AkunSsh Premium 10k isp indo & Sgdo
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/gb.png)
 
+Sc Versi Enteng Stunel4 Disini
+https://github.com/Arya-Blitar22/auto
+
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/law.png)
 
 ### BISA HUBUNGI
