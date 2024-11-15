@@ -2,6 +2,8 @@
 
 FREE VLESS
 
+https://free-vless.vlessws.workers.dev/
+
 https://senin.aryastore.ggff.net/AryaBlitar77
 
 <p align="center">
