@@ -4,8 +4,6 @@ FREE VLESS
 
 https://nbc.aryablitar.filegear-sg.me/
 
-https://senin.aryastore.ggff.net/AryaBlitar77
-
 ### Tuk akunssh Swaktu waktu bisa saya offkan
 ### Tuk mlm jumat / mlm minggu tutup buka lagi hari senin maaf ya link nya aku privat
 
