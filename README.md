@@ -2,9 +2,6 @@
 
 FREE VLESS
 
-https://free-vless.vlessws.workers.dev/
-
-jika kena limit bisa masuk sini
 https://nbc.aryablitar.filegear-sg.me/
 
 https://senin.aryastore.ggff.net/AryaBlitar77
