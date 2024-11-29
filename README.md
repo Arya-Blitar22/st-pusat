@@ -1,5 +1,7 @@
 ### Script LifeTime Gratis V1
 
+### Pakek Domain Sendiri ya kang !!
+
 ### Tuk mlm jumat / mlm minggu tutup buka lagi hari senin maaf ya link nya aku privat
 
 <p align="center">
