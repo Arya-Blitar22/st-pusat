@@ -1,6 +1,6 @@
 ### Script LifeTime Gratis V1
 
-### Bisa Makai domain dari script tapi sifatnya sementara, lebih Rekomondasi makai domain sendiri !!
+### WAJIB PAKEK DOMAIN SENDIRI YG DI SCRIPT KU OFKAN
 
 ### Tuk mlm jumat / mlm minggu tutup buka lagi hari senin maaf ya link nya aku privat
 
