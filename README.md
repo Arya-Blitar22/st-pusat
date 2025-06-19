@@ -41,7 +41,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
 
 ### Jika Swaktu2 Password Di Ganti Cek Youtube Terbaru
-https://youtu.be/OVbyvBec3B4
+[https://youtu.be/OVbyvBec3B4](https://youtu.be/BuGAMLup55s)
 
 ### Cara Fix Dropbear Haproxy Nginx
 
