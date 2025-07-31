@@ -76,7 +76,7 @@ TROJAN WSTLS 443,8443
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/soca.png)
 
-## Link Install Os Ubuntu 22.04 / 24.04
+## Link Install Os Ubuntu 22.04 / 24.04 / 25.04
 ````
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup7.sh && chmod +x setup7.sh && ./setup7.sh
 ````
