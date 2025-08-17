@@ -26,8 +26,6 @@ Noobzvpn/Bot Tele
 
 Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7 & Nginx Haproxy Fix nmer 8 / 9
 
-https://wa.me/6287721815317
-
 ### Bisa Donasi Seikhlasnya 🤣
 
 Versi Enteng No Udp,slowdns,noobzvpn.no limit V2
@@ -85,5 +83,5 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 https://youtu.be/f9T4chM6Ac8
 
 ### BISA HUBUNGI
-<a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6281931615811" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6287721815317" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 
