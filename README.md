@@ -15,7 +15,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scp.png)
 
-## BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA 081931615811
+## BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA +6287721815317
 
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10,11 / UBUNTU 20.18, 20.04 LANGSUNG INSTALL AJA!!!
 REKOMONDASI MAKEK DOMAIN SENDIRI.
@@ -26,7 +26,7 @@ Noobzvpn/Bot Tele
 
 Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7 & Nginx Haproxy Fix nmer 8 / 9
 
-https://wa.me/p/8285361161529756/6281931615811
+https://wa.me/6287721815317
 
 ### Bisa Donasi Seikhlasnya 🤣
 
