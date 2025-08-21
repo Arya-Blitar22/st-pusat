@@ -78,9 +78,9 @@ TROJAN WSTLS 443,8443
 ````
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup7.sh && chmod +x setup7.sh && ./setup7.sh
 ````
-## Tuk pw cek
+## Tuk pw cek vdeo terbarunya
 
-https://youtu.be/1L6Jm9mZR0g
+https://youtube.com/@arisstyachannel?si=8I1AD4Uysoboe9jv
 
 ### BISA HUBUNGI
 <a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6287721815317" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
