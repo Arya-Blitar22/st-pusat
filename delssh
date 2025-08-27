@@ -27,7 +27,7 @@ if [[ "$status" = "L" ]]; then
 printf "%-17s %2s %-17s %2s \n" "$AKUN" "$exp     "
 else
 printf "%-17s %2s %-17s %2s \n" "$AKUN" "$exp     "
-rm -f /var/www/html/ssh-${selected_user}.txt
+rm -f /var/www/html/ssh-${selected_Login}.txt
 fi
 fi
 done < /etc/passwd
