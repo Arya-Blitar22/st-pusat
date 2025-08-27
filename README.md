@@ -15,7 +15,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scp.png)
 
-## BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA +6287721815317
+## BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA +6283851335795
 
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10,11 / UBUNTU 20.18, 20.04 LANGSUNG INSTALL AJA!!!
 REKOMONDASI MAKEK DOMAIN SENDIRI.
@@ -83,5 +83,5 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 https://youtube.com/@arisstyachannel?si=8I1AD4Uysoboe9jv
 
 ### BISA HUBUNGI
-<a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6287721815317" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6283851335795" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 
