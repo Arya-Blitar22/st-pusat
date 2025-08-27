@@ -1,0 +1,73 @@
+#!/bin/bash
+clear
+echo -e "\e[97;1m ============================================= \e[0m"
+echo -e "\e[92;1m        DELETE SSH OPENVPN ACCOUNT             \e[0m"
+echo -e "\e[97;1m ============================================= \e[0m"
+
+# Ambil daftar user dari /etc/passwd
+users=()
+while IFS=: read -r username _ uid _ _ _ _; do
+    [[ "$uid" -ge 1000 && "$username" != "nobody" ]] || continue
+    exp=$(chage -l "$username" | grep "Account expires" | awk -F": " '{print $2}')
+    printf "%-2s %-17s %2s\n" "${#users[@]}" "$username" "$exp"
+    users+=("$username")
+done < /etc/passwd
+
+echo -e "\e[97;1m ============================================= \e[0m"
+read -p " Just Input number : " number
+selected_user=${users[$number]}
+
+if [[ -z "$selected_user" ]]; then
+    echo -e "\e[31;1m Input tidak valid atau kosong!\e[0m"
+    exit 1
+fi
+
+# Ambil expired dari .ssh.db (format: #ssh# user limitIP 04 Aug, 2025)
+sshdb_line=$(grep "^#ssh# $selected_user " /etc/kyt/ssh/.ssh.db)
+sshdb_exp=$(echo "$sshdb_line" | cut -d ' ' -f4- | tr -d ',')
+
+# Hapus user dari sistem
+if getent passwd "$selected_user" > /dev/null 2>&1; then
+    userdel "$selected_user" > /dev/null 2>&1
+    sed -i "/^#ssh# $selected_user /d" /etc/kyt/ssh/.ssh.db
+    rm -rf /etc/kyt/ssh/ip/${selected_user}
+    rm -rf /etc/kyt/ssh/detail/${selected_user}
+    rm -f /var/www/html/ssh-${selected_user}.txt
+
+    # Loading animasi
+    loading() {
+        local pid=$1 delay=0.1 spin='-\|/'
+        while ps -p $pid > /dev/null; do
+            local temp=${spin#?}
+            printf "[%c] " "$spin"
+            local spin=$temp${spin%"$temp"}
+            sleep $delay
+            printf "\b\b\b\b\b\b"
+        done
+        printf "    \b\b\b\b"
+    }
+
+    sleep 2 & loading $!
+
+    clear
+    echo -e "\e[97;1m ============================================= \e[0m"
+    echo -e "\e[92;1m             AKUN SUKSES DI HAPUS              \e[0m"
+    echo -e "\e[97;1m ============================================= \e[0m"
+    echo -e "\e[0;33m Username : ${selected_user}                   \e[0m"
+    echo -e "\e[0;33m Expiry of: ${sshdb_exp:-unknown}              \e[0m"
+    echo -e "\e[97;1m ============================================= \e[0m"
+
+else
+    echo -e "\e[97;1m ============================================= \e[0m"
+    echo -e "\e[91;1m             AKUN GAGAL DI HAPUS               \e[0m"
+    echo -e "\e[97;1m ============================================= \e[0m"
+    echo -e "\e[92;1m    Nama Tidak ada dalam Daftar Account        \e[0m"
+    echo -e "\e[97;1m ============================================= \e[0m"
+fi
+echo -e "\033[0;33m┌──────────────────────────────────────────┐\033[0m"
+echo -e " Autoscript By Arya Blitar 083851335795   "
+echo -e "\033[0;33m└──────────────────────────────────────────┘\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+exec bash
