@@ -78,6 +78,13 @@ TROJAN WSTLS 443,8443
 ````
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup7.sh && chmod +x setup7.sh && ./setup7.sh
 ````
+
+## Haproxy Kalian
+
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/koplak.png)
+
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/koplak2.png)
+
 ## Tuk pw cek vdeo terbarunya
 
 https://youtube.com/@arisstyachannel?si=8I1AD4Uysoboe9jv
