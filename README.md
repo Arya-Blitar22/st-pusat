@@ -85,6 +85,8 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/koplak2.png)
 
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/api.png)
+
 ## Tuk pw cek vdeo terbarunya
 
 https://youtube.com/@arisstyachannel?si=8I1AD4Uysoboe9jv
