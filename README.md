@@ -95,9 +95,9 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 wget --no-check-certificate https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/stupul.sh && chmod +x stupul.sh && ./stupul.sh
 ````
 
-## Tuk pw cek vdeo terbarunya
+## Tuk all os pw cek vdeo terbarunya
 
-https://youtube.com/@arissetyachannel?si=jy7rAWhdRZGasEGR
+https://youtu.be/IDM4zs_E4GY
 
 ### BISA HUBUNGI
 <a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6281450330727" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
