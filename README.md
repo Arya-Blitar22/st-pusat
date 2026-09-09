@@ -95,6 +95,9 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 wget --no-check-certificate https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/stupul.sh && chmod +x stupul.sh && ./stupul.sh
 ````
 
+#### SEGERA RILIS FRE BUAT KAMU SEMUA SC HAPROXY VERSI 2
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/pesona.png)
+
 ## Tuk all os pw cek vdeo terbarunya
 
 https://youtu.be/IDM4zs_E4GY
