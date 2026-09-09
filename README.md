@@ -97,6 +97,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/Arya-Blitar22/st-p
 
 #### SEGERA RILIS FRE BUAT KAMU SEMUA SC HAPROXY VERSI 2
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/pesona.png)
+Protokol Hanya Yg Di Butuhkan Saja Sehingga Lebih Enteng & Mempesona
 
 ## Tuk all os pw cek vdeo terbarunya
 
