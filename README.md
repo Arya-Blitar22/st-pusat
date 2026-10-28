@@ -2,7 +2,46 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+A+P+P+Y+++N+E+W+++Y+Y+E+A+R++2026" />
 </p>
 
-### YANG BACKUP NYA GK BISA SILAHKAN INSTALL ULANG MOHON MAAF ATAS KETIDAKNYAMAN KARNA SUDAH AGAK SIBUK
+💥 INJEK PAKET SAWER 💥
+
+- XL EDUKASI & CONFRENCE
+- XL WA & XL IFLIX ALL TKP
+- ISAT EDUKASI, APPSFUN, APPSGAME
+- TELKOMSEL ILMUPEDIA ALL TKP
+- TELKOMSEL GAMEX
+- SMARTFREND NONSTOP
+- AXIS GAMING & SUSHIROL
+
+READY Akun Ssh Premium 
+- Ssh Ws - Vmes - Vless - Trojan
+
+# Server Host
+
+➲ ID Aren-Host ➠ 10k 30hari 🇮🇩
+➲ ID PT Rajamitra  ➠ 10k 30hari 🇮🇩
+➲ ID Media Antar Nusa➠ 10k 30hari 🇮🇩
+➲ ID Biznet Gio Nusantara  ➠ 10k 30hari 🇮🇩
+➲ SG NewMedia Express Pte ➠ 10k 30hari 🇸🇬
+➲ ID PT Atlantic Aksa Group ➠ 10k 30hari  🇮🇩
+➲ PT Infinys System Indonesia ➠ 10k 30hari  🇮🇩
+
+- ATURAN : ⭐ Max 2hp / 2 Device
+MELANGGAR BANED
+
+*Tidak Buat Openwrt / rt.rw Minggir*
+- Siap Trial Tes Tkp Masing2
+- Bisa Bantu Request Config
+- Pembayaran :
+- Dana, Ovo, Sopepay,Gopay,Qris,LinkAja
+- SeaBank, Rekening BRI
+- Pulsa Harga Beda
+- Bisa Cat & Kalau Ada Kendala
+https://wa.me/6281450330727
+
+- Bisa Order Vpn Resmi Indo lewat Auto Bot
+https://t.me/Aryablitarpro77_bot
+
+- Ikuti saluran di WhatsApp: https://whatsapp.com/channel/0029VbC7Djs2phHTTtqBED2M
 
 ### Script LifeTime Gratis V1
 ## Scrol kebawah baca semua
