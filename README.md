@@ -4,6 +4,22 @@
 
 ### Kalau ada apa-apa bisa wa saya
 
+💥 READY TEMBAKPAKET + CONFIG
+
+- XL EDUKASI 15GB 7HARI - 12K
+- XL CONFRENCE 15GB 7HARI - 14K
+- XL EKSTRAK KUOTA 30GB - 23K 30HARI
+(15GB pukul (01:00-06:00) - 14GB iFlix Super Nonton - 1GB Youtube, Instagram, Facebook, WhatsApp) # YG DI INJEK IFLIXNYA
+- TESEL ILMUPEDIA 22GB 7HARI - 18K
+- TESEL ILMUPEDIA 11GB 7HARI - 16K
+
+- MASA AKTIF XL 1BULAN 7K
+- MASA AKTIF AXIS 1BULAN 7K
+- MASA AKTIF TELKOMSEL 1BULAN 12K
+- MASA AKTIF TELKOMSEL 3BULAN 34K
+- MASA AKTIF INDOSAT 1BULAN 10K
+- MASA AKTIF INDOSAT 3BULAN 34K
+
 💥 INJEK PAKET SAWER 💥
 
 - XL EDUKASI & CONFRENCE
@@ -28,7 +44,6 @@ READY Akun Ssh Premium
 ➲ ID Biznet Gio Nusantara  ➠ 10k 30hari 🇮🇩
 
 ➲ SG NewMedia Express Pte ➠ 10k 30hari 🇸🇬
-
 ➲ ID PT Atlantic Aksa Group ➠ 10k 30hari  🇮🇩
 
 ➲ PT Infinys System Indonesia ➠ 10k 30hari  🇮🇩
