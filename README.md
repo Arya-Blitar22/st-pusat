@@ -41,3 +41,8 @@ https://youtu.be/5oyRchPMzJc?si=5n9sxwrbrn2y4URd
 
 olor=blue"></a><br><a href="https://wa.me/6281450330727" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 
+### ALL OS
+````
+apt update -y && apt upgrade -y && apt install -y wget curl git && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/stupul.sh && chmod +x stupul.sh && ./stupul.sh
+````
+
